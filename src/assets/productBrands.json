@@ -1,0 +1,58 @@
+[
+{
+			"ProductId": "HT-1000",
+			"Category": "Laptops",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens"
+	},
+		{
+			"ProductId": "HT-1002",
+			"Category": "Laptops",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens"
+	},
+		{
+			"ProductId": "HT-1003",
+			"Category": "Laptops",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Smartcards"
+	},
+		{
+			"ProductId": "HT-1007",
+			"Category": "Accessories",
+			"MainCategory": "Computer Components",
+			"TaxTarifCode": "1",
+			"SupplierName": "Technocom"
+	},
+		{
+			"ProductId": "HT-1010",
+			"Category": "Accessories",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens"
+	},
+		{
+			"ProductId": "HT-1011",
+			"Category": "Laptops",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens"
+	},
+		{
+			"ProductId": "HT-1020",
+			"Category": "Accessories",
+			"MainCategory": "Computer Components",
+			"TaxTarifCode": "1",
+			"SupplierName": "Technocom"
+	},
+		{
+			"ProductId": "HT-1021",
+			"Category": "Accessories",
+			"MainCategory": "Computer Components",
+			"TaxTarifCode": "1",
+			"SupplierName": "Technocom"
+	}
+]
